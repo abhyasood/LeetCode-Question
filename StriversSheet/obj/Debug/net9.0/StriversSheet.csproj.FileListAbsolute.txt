@@ -1,0 +1,15 @@
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/bin/Debug/net9.0/StriversSheet
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/bin/Debug/net9.0/StriversSheet.deps.json
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/bin/Debug/net9.0/StriversSheet.runtimeconfig.json
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/bin/Debug/net9.0/StriversSheet.dll
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/bin/Debug/net9.0/StriversSheet.pdb
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/obj/Debug/net9.0/StriversSheet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/obj/Debug/net9.0/StriversSheet.AssemblyInfoInputs.cache
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/obj/Debug/net9.0/StriversSheet.AssemblyInfo.cs
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/obj/Debug/net9.0/StriversSheet.csproj.CoreCompileInputs.cache
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/obj/Debug/net9.0/StriversSheet.sourcelink.json
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/obj/Debug/net9.0/StriversSheet.dll
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/obj/Debug/net9.0/refint/StriversSheet.dll
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/obj/Debug/net9.0/StriversSheet.pdb
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/obj/Debug/net9.0/StriversSheet.genruntimeconfig.cache
+/Users/abhyasood/Documents/GitHub/LeetCode-Question/StriversSheet/obj/Debug/net9.0/ref/StriversSheet.dll
