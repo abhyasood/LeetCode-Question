@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StriversSheet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4a9a9d9462748dd9eeb7bf3c1aabb46fc6b64cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1cd971d80c15bf161577072857b622bdc6c5952")]
 [assembly: System.Reflection.AssemblyProductAttribute("StriversSheet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StriversSheet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
